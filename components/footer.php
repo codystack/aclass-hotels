@@ -1,33 +1,21 @@
         <footer class="main-footer footer-style-one">
-            <!-- Widgets Section -->
             <div class="widgets-section">
                 <div class="auto-container">
                     <div class="row">
-                        <!-- Footer Column -->
                         <div class="footer-column col-lg-4 col-sm-6">
-                            <div class="footer-widget about-widget wow fadeInLeft">
+                            <div class="footer-widget about-widget wow fadeInLeft mb-2">
                                 <div class="widget-content">
-                                    <div class="logo"><a href="#"> <img src="./assets/images/logo-2.png" alt=""></a></div>
-                                    <div class="text mb-0">Feel free to reach out if you want collaborate with us, or simply chat.</div>
-                                </div>
-                            </div>
-                            <div class="footer-widget news-widget wow fadeInLeft" data-wow-delay="400ms">
-                                <div class="subscribe-form-three">
-                                    <form method="post" action="#">
-                                        <div class="form-group">
-                                            <input type="email" name="email" class="email" value="" placeholder="Email Address" required="">
-                                            <button type="button" class="theme-btn btn-style-one"><span class="btn-title"><i class="fa fa-paper-plane"></i></span></button>
-                                        </div>
-                                    </form>
+                                    <div class="logo">
+                                        <a href="./"><img src="./assets/images/aclass-logo.svg" width="250px" alt=""></a>
+                                    </div>
+                                    <div class="text mb-0">Stay in Class. Live in Comfort.<br /> Experience timeless hospitality at A-Class Garden & Suites.</div>
                                 </div>
                             </div>
                             <div class="footer-widget widget-social wow fadeInLeft" data-wow-delay="300ms">
-                                <h4 class="widget-title">Follow Us</h4>
                                 <div class="widget-content">
                                     <ul class="social-icon">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-whatsapp"></i></a></li>
                                     </ul>
                                 </div>
@@ -67,27 +55,14 @@
                         <!-- footer column -->
                         <div class="footer-column col-lg-3 col-sm-6">
                             <div class="footer-widget info-widget ps-xl-5 ms-xl-5 mb-30 wow fadeInLeft" data-wow-delay="300ms">
-                                <h4 class="widget-title">New York</h4>
+                                <h4 class="widget-title">Visit us</h4>
                                 <div class="widget-content">
                                     <!-- Contact List -->
                                     <div class="contact-list">
                                         <div class="inner">
-                                            <div class="list-info">2464 Royal Ln. Mesa, New Jersey 45463</div>
-                                            <div class="list-info">(000) 222-0000</div>
+                                            <div class="list-info">1 A-Class Avenue, Pope John Paul II Estate, Airport Oba, Anambra State.</div>
+                                            <div class="list-info">07076809773</div>
                                             <div class="list-info"><a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="adc4c3cbc2edd4c2d8dfdac8cfdec4d9c883cec2c0">[email&#160;protected]</a></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="footer-widget info-widget ps-xl-5 ms-xl-5 wow fadeInLeft" data-wow-delay="300ms">
-                                <h4 class="widget-title">London</h4>
-                                <div class="widget-content">
-                                    <!-- Contact List -->
-                                    <div class="contact-list">
-                                        <div class="inner">
-                                            <div class="list-info">1901 Thorn ridge Cir. Shiloh, Hawaii 81063</div>
-                                            <div class="list-info">(000) 000-0000</div>
-                                            <div class="list-info"><a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="a2cbccc4cde2dbcdd7d0d5c7c0d1cbd6c78cc1cdcf">[email&#160;protected]</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -100,17 +75,14 @@
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner-container">
-                        <div class="copyright-text">© 2025 <span>ThemeMascot</span> Agency</div>
+                        <div class="copyright-text">© <script>document.write(new Date().getFullYear());</script> <span>A-Class Garden & Suites.</span> All rights reserved.</div>
                     </div>
                 </div>
             </div>
         </footer>
-        <!--End Main Footer -->
-
-        <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>
 
     </div>
-    <!-- End Page Wrapper -->
+
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="./assets/js/jquery.js"></script>
     <script src="./assets/js/popper.min.js"></script>
