@@ -14,180 +14,60 @@ include "./components/navbar.php";
 			</div>
 		</div>
 	</section>
-	<!-- end main-content -->
-
-    <!-- About Section -->
+    
     <section class="about-section">
         <div class="auto-container">
-        <div class="row">
-            <!-- Content Column -->
-            <div class="content-column col-lg-6 order-lg-2 wow fadeInRight" data-wow-delay="600ms">
-            <div class="inner-column">
-                <div class="sec-title">
-                <span class="sub-title style-two">About us</span>
-                <h2>We Provide Outdoor <br />Activities To All</h2>
-                <div class="text-2">Our activities around the world and across various Hotel Service sectors.</div>
-                <div class="text">With over four decades of experience providing solutions to large-scale enterprises throughout the globe, we offer end-to-end logistics tailored for specific markets.</div>
+            <div class="row">
+                <div class="content-column col-lg-6 order-lg-2 wow fadeInRight" data-wow-delay="600ms">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <span class="sub-title style-two">About us</span>
+                            <h2>Redefining Comfort, One Stay at a Time.</h2>
+                            <div class="text mb-2">At A-Class Garden & Suites, we redefine hospitality through exceptional service, elegant spaces, and a touch of home in every detail.</div>
+                            <div class="text mt-0 mb-2">Our mission is to provide guests with a luxurious yet affordable escape — where every moment feels special, and every comfort is thoughtfully designed.</div>
+                            <div class="text mt-0 mb-2">From the welcoming atmosphere of our reception to the calm serenity of our suites, we create an experience that blends business-class convenience with boutique-style charm and budget-friendly value.</div>
+                            <div class="text mt-0">Come, unwind, and discover why A-Class Garden & Suites is Anambra’s preferred destination for comfort, class, and care.</div>
+                        </div>
+                        <div class="btn-box">
+                            <a href="page-about.html" class="theme-btn btn-style-four"><span class="btn-title">Discover More</span></a>
+                        </div>
+                    </div>
                 </div>
-                <ul class="list-style-two">
-                <li><i class="icon fa fa-circle-check"></i> Introduce  best the revauto and their services.</li>
-                <li><i class="icon fa fa-circle-check"></i> Highlight featured on revauto project.</li>
-                <li><i class="icon fa fa-circle-check"></i> Revauto mission statement or philosophy.</li>
-                </ul>
-                <div class="btn-box">
-                <a href="page-about.html" class="theme-btn btn-style-four"><span class="btn-title">Discover More</span></a>
+                <!-- Image Column -->
+                <div class="image-column col-md-8 col-lg-6">
+                <div class="inner-column wow fadeInLeft">
+                    <figure class="image-1 overlay-anim wow reveal-left tm-gsap-img-parallax overflow-hidden"><img src="./assets/images/resource/about1-1.jpg" alt=""></figure>
+                    <figure class="image-2 overlay-anim wow reveal-left tm-gsap-img-parallax overflow-hidden"><img src="./assets/images/resource/about1-2.jpg" alt=""></figure>
+                </div>
                 </div>
             </div>
-            </div>
-            <!-- Image Column -->
-            <div class="image-column col-md-8 col-lg-6">
-            <div class="inner-column wow fadeInLeft">
-                <figure class="image-1 overlay-anim wow reveal-left tm-gsap-img-parallax overflow-hidden"><img src="./assets/images/resource/about1-1.jpg" alt=""></figure>
-                <figure class="image-2 overlay-anim wow reveal-left tm-gsap-img-parallax overflow-hidden"><img src="./assets/images/resource/about1-2.jpg" alt=""></figure>
-            </div>
-            </div>
-        </div>
         </div>
     </section>
-    <!--Emd About Section -->
-
-  <!-- Marquee Section -->
-  <section class="marquee-section pt-0">
-    <div class="marquee marquee-style-one">
-      <div class="marquee-group">
-        <div class="text text-style2" data-text="BOOKING">Rooms & Suites</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text" data-text="TOUR">Hoteler</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text text-style2" data-text="ONLINE">Rooms & Suites</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text" data-text="PRE- BOOKING">Hoteler</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-      </div>
-      <div class="marquee-group">
-        <div class="text text-style2" data-text="BOOKING">Rooms & Suites</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text" data-text="TOUR">Hoteler</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text text-style2" data-text="ONLINE">Rooms & Suites</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-        <div class="text" data-text="PRE- BOOKING">Hoteler</div>
-        <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
-      </div>
-    </div>
-  </section>
-  <!--End Marquee Section -->
-
-  <!-- Features Section Two -->
-  <section class="feature-section-two pb-0">
-    <div class="auto-container">
-      <div class="row feature-row g-0">
-        <div class="image-column col-lg-6">
-          <div class="inner-column">
-            <div class="image-box">
-              <figure class="image overlay-anim wow reveal-right"><img src="./assets/images/resource/feature2-1.jpg" alt=""></figure>
+    
+    <section class="marquee-section pt-0">
+        <div class="marquee marquee-style-one">
+            <div class="marquee-group">
+                <div class="text text-style2" data-text="BOOKING">Rooms & Suites</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text" data-text="TOUR">A-Class</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text text-style2" data-text="ONLINE">Rooms & Suites</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text" data-text="PRE- BOOKING">A-Class</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
             </div>
-          </div>
+            <div class="marquee-group">
+                <div class="text text-style2" data-text="BOOKING">Rooms & Suites</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text" data-text="TOUR">A-Class</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text text-style2" data-text="ONLINE">Rooms & Suites</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+                <div class="text" data-text="PRE- BOOKING">A-Class</div>
+                <span class="text divider "> <i class="icon fa-sharp fa-solid fa-star"></i> </span>
+            </div>
         </div>
-        <div class="content-column col-lg-6" >
-          <div class="inner-column">
-            <div class="content-box">
-              <div class="sec-title">
-                <span class="sub-title">DISCOVER</span>
-                <h2>The Restaurant</h2>
-                <div class="text">With the largest fleet of luxury catamarans, sailing and motor yachts in Santorini we guarantee the ultimate sailing experience!</div>
-              </div>
-              <a href="room-details.html" class="theme-btn btn-style-two read-more">READ MORE</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row feature-row g-0">
-        <div class="content-column col-lg-6">
-          <div class="inner-column">
-            <div class="content-box">
-              <div class="sec-title">
-                <span class="sub-title">EXPERIENCE</span>
-                <h2>Spa Center</h2>
-                <div class="text">With the largest fleet of luxury catamarans, sailing and motor yachts in Santorini we guarantee the ultimate sailing experience!</div>
-              </div>
-              <a href="room-details.html" class="theme-btn btn-style-two read-more">READ MORE</a>
-            </div>
-          </div>
-        </div>
-        <div class="image-column col-lg-6">
-          <div class="inner-column">
-            <div class="image-box">
-              <figure class="image overlay-anim wow reveal-left"><img src="./assets/images/resource/feature2-2.jpg" alt=""></figure>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row feature-row g-0">
-       <div class="image-column col-lg-6">
-          <div class="inner-column">
-            <div class="image-box">
-              <figure class="image overlay-anim wow reveal-right"><img src="./assets/images/resource/feature2-3.jpg" alt=""></figure>
-            </div>
-          </div>
-        </div>
-        <div class="content-column col-lg-6">
-          <div class="inner-column">
-            <div class="content-box">
-              <div class="sec-title">
-                <span class="sub-title">MODERN</span>
-                <h2>Fitness Center</h2>
-                <div class="text">With the largest fleet of luxury catamarans, sailing and motor yachts in Santorini we guarantee the ultimate sailing experience!</div>
-              </div>
-              <a href="room-details.html" class="theme-btn btn-style-two read-more">READ MORE</a>
-            </div> 
-          </div>
-        </div> 
-      </div>
-    </div>
-  </section>
-  <!-- End Features Section -->
-
-  <!-- Funfact Section -->
-  <section class="funfact-section-two">
-    <div class="outer-box">
-      <div class="auto-container">
-        <div class="fact-counter">
-          <div class="row">
-            <!-- Counter block-->
-            <div class="counter-block-two col-lg-3 col-sm-6">
-              <div class="inner-box">
-                <div class="count-box"><span class="count-text" data-speed="3000" data-stop="20">0</span></div>
-                <div class="counter-text">Years Of <br/> Experience</div>
-              </div>
-            </div>
-            <!-- Counter block-->
-            <div class="counter-block-two col-lg-3 col-sm-6">
-              <div class="inner-box">
-                <div class="count-box"><span class="count-text" data-speed="3000" data-stop="10">0</span></div>
-                <div class="counter-text">Online <br/> Booking</div>
-              </div>
-            </div>
-            <!-- Counter block-->
-            <div class="counter-block-two col-lg-3 col-sm-6">
-              <div class="inner-box">
-                <div class="count-box"><span class="count-text" data-speed="3000" data-stop="40">0</span></div>
-                <div class="counter-text">Experience <br/> Hotel Boy</div>
-              </div>
-            </div>
-            <!-- Counter block-->
-            <div class="counter-block-two col-lg-3 col-sm-6">
-              <div class="inner-box">
-                <div class="count-box"><span class="count-text" data-speed="3000" data-stop="30">0</span></div>
-                <div class="counter-text">Best Hotel <br/> Award</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
+    </section>
   
 
 <?php include "./components/footer.php"; ?>

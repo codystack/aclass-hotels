@@ -47,28 +47,18 @@
                         </ul>
                         <ul class="contact-list-one">
                             <li>
-                            <!-- Contact Info Box -->
-                            <div class="contact-info-box">
-                                <i class="icon fal fa-phone"></i>
-                                <span class="title">Call Now</span>
-                                <a href="tel:+92880098670">+92 (8800) - 98670</a>
-                            </div>
+                                <div class="contact-info-box">
+                                    <i class="icon fal fa-phone"></i>
+                                    <span class="title">Call Now</span>
+                                    <a href="tel:07076809773">07076809773</a>
+                                </div>
                             </li>
                             <li>
-                            <!-- Contact Info Box -->
-                            <div class="contact-info-box">
-                                <span class="icon fal fa-envelope"></span>
-                                <span class="title">Send Email</span>
-                                <a href="../../cdn-cgi/l/email-protection.html#345c51584474575b5944555a4d1a575b59"><span class="__cf_email__" data-cfemail="80e8e5ecf0c0e3efedf0e1eef9aee3efed">[email&#160;protected]</span></a>
-                            </div>
-                            </li>
-                            <li>
-                            <!-- Contact Info Box -->
-                            <div class="contact-info-box">
-                                <span class="icon fa-sharp fal fa-clock-desk"></span>
-                                <span class="title">Send Email</span>
-                                Mon - Sat 8:00 - 6:30, Sunday - CLOSED
-                            </div>
+                                <div class="contact-info-box">
+                                    <span class="icon fal fa-envelope"></span>
+                                    <span class="title">Send Email</span>
+                                    <span>hello@aclassgardenandsuites.com</span>
+                                </div>
                             </li>
                         </ul>
                         <ul class="social-links">
