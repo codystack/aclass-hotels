@@ -29,7 +29,7 @@ include "./components/navbar.php";
                             <div class="text mt-0">Come, unwind, and discover why A-Class Garden & Suites is Anambra’s preferred destination for comfort, class, and care.</div>
                         </div>
                         <div class="btn-box">
-                            <a href="page-about.html" class="theme-btn btn-style-four"><span class="btn-title">Discover More</span></a>
+                            <a href="services" class="theme-btn btn-style-four"><span class="btn-title">Discover More</span></a>
                         </div>
                     </div>
                 </div>

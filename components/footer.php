@@ -21,43 +21,37 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Footer Column -->
+                        
                         <div class="footer-column col-lg-3 col-sm-6 mb-0 ps-xl-5">
                             <div class="footer-widget links-widget ps-xl-5 wow fadeInLeft" data-wow-delay="200ms">
-                                <h4 class="widget-title">Services</h4>
+                                <h4 class="widget-title">Quick Links</h4>
                                 <div class="widget-content">
                                     <ul class="user-links">
-                                        <li><a href="#/">Store Directory</a></li>
-                                        <li><a href="#/">Top Hotels</a></li>
-                                        <li><a href="#/">Quick Links</a></li>
-                                        <li><a href="#/">Important Links</a></li>
-                                        <li><a href="#/">Insights</a></li>
-                                        <li><a href="#/">Knowledge Center</a></li>
+                                        <li><a href="rooms">Rooms</a></li>
+                                        <li><a href="faq">FAQ's</a></li>
+                                        <li><a href="services">Services</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <!-- Footer Column -->
+                        
                         <div class="footer-column col-lg-2 col-sm-6 mb-0 ps-xl-4">
                             <div class="footer-widget links-widget ps-xl-4 wow fadeInLeft" data-wow-delay="200ms">
                                 <h4 class="widget-title">Company</h4>
                                 <div class="widget-content">
                                     <ul class="user-links">
-                                        <li><a href="#/">Home</a></li>
-                                        <li><a href="#/">About Us</a></li>
-                                        <li><a href="#/">Services</a></li>
-                                        <li><a href="#/">Career</a></li>
-                                        <li><a href="#/">Contact</a></li>
+                                        <li><a href="./">Home</a></li>
+                                        <li><a href="about">About Us</a></li>
+                                        <li><a href="contact">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <!-- footer column -->
+                        
                         <div class="footer-column col-lg-3 col-sm-6">
                             <div class="footer-widget info-widget ps-xl-5 ms-xl-5 mb-30 wow fadeInLeft" data-wow-delay="300ms">
                                 <h4 class="widget-title">Visit us</h4>
                                 <div class="widget-content">
-                                    <!-- Contact List -->
                                     <div class="contact-list">
                                         <div class="inner">
                                             <div class="list-info">1 A-Class Avenue, Pope John Paul II Estate, Airport Oba, Anambra State.</div>
@@ -71,7 +65,7 @@
                     </div>
                 </div>
             </div>
-            <!--  Footer Bottom -->
+            
             <div class="footer-bottom">
                 <div class="auto-container">
                     <div class="inner-container">
