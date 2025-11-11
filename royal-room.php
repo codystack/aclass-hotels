@@ -36,7 +36,7 @@ include "./components/navbar.php";
 
                     <div class="room-details__left">
                         <div class="room-heading">
-                            <h3 class="title mb-4">Executive</h3>
+                            <h3 class="title mb-4">Royal</h3>
                             <div class="text">40-inch LED TV / Mini bar / Non-smoking / USB charging</div>
                             <ul class="kodelisting-room-basic-info g-3">
                                 <li><i class="fa-classic fat fa-users"></i> <span class="csrbi-text">2 Guests</span></li>
@@ -48,7 +48,7 @@ include "./components/navbar.php";
 					<div class="room-details__left">
 						<div class="wrapper">
 							<h4>Description</h4>
-							<p class="text">Discover the perfect balance of comfort and class in our Executive Room. Designed with the modern traveler in mind, this room combines elegant style with practical luxury. Enjoy a plush king-sized bed, contemporary décor, and premium amenities that ensure a restful and productive stay. Whether you’re visiting for business or leisure, the Executive Room offers a serene environment that redefines what it means to stay in comfort.</p>
+							<p class="text">Step into the Royal Room, where elegance and comfort come together in perfect harmony. Beautifully furnished and tastefully decorated, this room offers a serene retreat designed for relaxation and indulgence. Enjoy the warmth of soft lighting, a cozy king-sized bed, and thoughtfully selected amenities that reflect true royal comfort. Ideal for couples or guests seeking a touch of sophistication, the Royal Room delivers a memorable experience that feels both intimate and grand.</p>
 						</div>
 					</div>
 				</div>
@@ -58,12 +58,12 @@ include "./components/navbar.php";
 						<div class="kodelisting-room-booking mb-30">
                             <div class="kodelisting-room-booking-wrap">
                                 <div class="room-booking-title">
-                                    <h5 class="title">₦25,000/night</h5>
+                                    <h5 class="title">₦20,000/night</h5>
                                 </div>
                                 <form class="reservation-form">
                                     <div class="mb-3 mt-2">
                                         <input name="form_botcheck" class="form-control" type="hidden" value="">
-                                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20room.%20" target="_blank" class="theme-btn btn-style-one w-100">
+                                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Royal%20room.%20" target="_blank" class="theme-btn btn-style-one w-100">
                                             <span class="btn-title">Book Now</span>
                                         </a>
                                     </div>
@@ -77,7 +77,7 @@ include "./components/navbar.php";
 								<li>
 									<div class="sidebar__post-image"> <img src="./assets/images/resource/news-info-2.jpg" alt=""> </div>
 									<div class="sidebar__post-content">
-										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Royal</span> <a href="">₦20,000/night</a> </h3>
+										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Executive</span> <a href="">₦25,000/night</a> </h3>
 									</div>
 								</li>
 								<li>
