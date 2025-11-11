@@ -2,88 +2,73 @@
 include "./components/header.php";
 include "./components/navbar.php";
 ?>
+        <section class="banner-section">
+            <div class="banner-slider banner-slider-home1">
+                <div class="banner-slide-v2">
+                    <div class="outer-box">
+                        <figure class="image wow fadeInUp tm-gsap-img-parallax overflow-hidden">
+                            <img src="./assets/images/banner/banner1-3.png" alt="">
+                        </figure>
+                        <div class="content-box">
+                            <span class="sub-title" data-animation-in="fadeInUp" data-delay-in="0.1">Timeless Luxury</span>
+                            <h1 data-animation-in="fadeInUp" data-delay-in="0.3">Where Luxury<br />Feels Like Home</h1>
+                            <a href="rooms" class="btn" data-animation-in="fadeInUp" data-delay-in="0.5">Book a room</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="banner-slide-v2">
+                    <div class="outer-box">
+                        <figure class="image wow fadeInUp tm-gsap-img-parallax overflow-hidden">
+                            <img src="./assets/images/banner/banner1-3.png" alt="">
+                        </figure>
+                        <div class="content-box">
+                            <span class="sub-title" data-animation-in="fadeInUp" data-delay-in="0.1">Comfort Redefined</span>
+                            <h1 data-animation-in="fadeInUp" data-delay-in="0.3">Indulge in Ultimate <br />Comfort</h1>
+                            <a href="rooms" class="btn" data-animation-in="fadeInUp" data-delay-in="0.5">Book a room</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="banner-slide-v2">
+                    <div class="outer-box">
+                        <figure class="image wow fadeInUp tm-gsap-img-parallax overflow-hidden">
+                            <img src="./assets/images/banner/banner1-3.png" alt="">
+                        </figure>
+                        <div class="content-box">
+                            <span class="sub-title" data-animation-in="fadeInUp" data-delay-in="0.1">Elegant Living</span>
+                            <h1 data-animation-in="fadeInUp" data-delay-in="0.3">Live the A-Class <br />Experience</h1>
+                            <a href="page-about.html" class="btn" data-animation-in="fadeInUp" data-delay-in="0.5">Book a room</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-        <section class="banner-section11">
-            <div class="banner-slider banner-slider-home3">
-                <div class="banner-slide">
-                    <div class="inner-slide">
-                        <div class="bg bg-image overflow-hidden" style="background-image: url(./assets/images/banner/banner-4.jpg);"></div>
-                        <div class="auto-container">
-                            <div class="row">
-                                <div class="content-column col-lg-8">
-                                    <div class="inner-column">
-                                        <div class="offer-text wow fadeInUp" data-wow-delay="300ms"><span>25% OFF</span>FOR TODAY’S ONLINE BOOKING</div>
-                                        <h1 class="title wow fadeInUp" data-wow-delay="600ms">Enjoy Your Hotel <br />Booking Now.</h1>
-                                        <div class="btn-box wow fadeInUp" data-wow-delay="900ms">
-                                            <a href="page-contact.html" class="theme-btn btn-style-two"><span class="btn-title">Room & Suites</span></a>
-                                        </div>
-                                    </div>
-                                </div>
+        <section class="about-section-five">
+            <div class="auto-container">
+                <div class="row">
+                    <div class="content-column col-lg-5 order-lg-2">
+                        <div class="inner-column">
+                            <div class="sec-title">
+                                <span class="sub-title">Hoteler LUXURY HOTEL</span>
+                                <h2>Find Your Home Away from Home</h2>
+                                <div class="text">Roomaroo in a powerful way of just not an only professions, however, in a passion for our Company. We have to a tendency to believe the idea that smart looking of any website.</div>
+                            </div>
+                            <figure class="image-1 overlay-anim wow fadeInUp"><img src="./assets/images/resource/about5-1.jpg" alt=""></figure>
+                            <figure class="image-2 bounce-z"><img src="./assets/images/icons/text-1.png" alt=""></figure>
+                        </div>
+                    </div>
+                    
+                    <div class="image-column col-lg-7">
+                        <div class="inner-column wow fadeInLeft">
+                            <figure class="image-1 overlay-anim wow fadeInUp"><img src="./assets/images/resource/about5-2.jpg" alt=""></figure>
+                            <h2 class="title">Luxury Hotels</h2>
+                            <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting <br />industry. Lorem Ipsum has been the industry's standard dummy text <br />ever since the 1500s, </div>
+                            <div class="btn-box">
+                                <a href="page-about.html" class="theme-btn btn-style-one"><span class="btn-title">Discover More</span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="banner-slide">
-                    <div class="inner-slide">
-                        <div class="bg bg-image overflow-hidden" style="background-image: url(./assets/images/banner/banner-5.jpg);"></div>
-                        <div class="auto-container">
-                            <div class="row">
-                                <!-- Content Column -->
-                                <div class="content-column col-lg-8">
-                                    <div class="inner-column">
-                                        <div class="offer-text wow fadeInUp" data-wow-delay="300ms"><span>25% OFF</span>FOR TODAY’S ONLINE BOOKING</div>
-                                        <h1 class="title wow fadeInUp" data-wow-delay="600ms">Enjoy Your Hotel <br />Booking Now.</h1>
-                                        <div class="btn-box wow fadeInUp" data-wow-delay="900ms">
-                                            <a href="page-contact.html" class="theme-btn btn-style-two"><span class="btn-title">Room & Suites</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="banner-slide">
-                    <div class="inner-slide">
-                        <div class="bg bg-image overflow-hidden" style="background-image: url(./assets/images/banner/banner5-1.jpg);"></div>
-                        <div class="auto-container">
-                            <div class="row">
-                                <!-- Content Column -->
-                                <div class="content-column col-lg-8">
-                                    <div class="inner-column">
-                                        <div class="offer-text wow fadeInUp" data-wow-delay="300ms"><span>25% OFF</span>FOR TODAY’S ONLINE BOOKING</div>
-                                        <h1 class="title wow fadeInUp" data-wow-delay="600ms">Enjoy Your Hotel <br />Booking Now.</h1>
-                                        <div class="btn-box wow fadeInUp" data-wow-delay="900ms">
-                                            <a href="page-contact.html" class="theme-btn btn-style-two"><span class="btn-title">Room & Suites</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="banner-slide">
-                    <div class="inner-slide">
-                        <div class="bg bg-image overflow-hidden" style="background-image: url(./assets/images/banner/banner5-2.jpg);"></div>
-                        <div class="auto-container">
-                            <div class="row">
-                                <!-- Content Column -->
-                                <div class="content-column col-lg-8">
-                                    <div class="inner-column">
-                                        <div class="offer-text wow fadeInUp" data-wow-delay="300ms"><span>25% OFF</span>FOR TODAY’S ONLINE BOOKING</div>
-                                        <h1 class="title wow fadeInUp" data-wow-delay="600ms">Enjoy Your Hotel <br />Booking Now.</h1>
-                                        <div class="btn-box wow fadeInUp" data-wow-delay="900ms">
-                                            <a href="page-contact.html" class="theme-btn btn-style-two"><span class="btn-title">Room & Suites</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </section>
 
@@ -561,274 +546,6 @@ include "./components/navbar.php";
                 </div>
             </div>
         </section>
-        <!-- End Contact Section -->
 
-        <!-- Team Section -->
-        <section class="team-section">
-            <div class="auto-container">
-                <div class="sec-title text-center wow fadeInUp">
-                    <span class="sub-title">Hoexr Hotel team</span>
-                    <h2>Expert Team Persons</h2>
-                </div>
-                <div class="row">
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-1.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Michael Dean</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="200ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-2.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Frank Burton</a></h4>
-                                    <span class="designation">Kitchen Manager</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="300ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-3.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Mya Mullins</a></h4>
-                                    <span class="designation">Hotel Manager</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="400ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-4.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Ralph Nguyen</a></h4>
-                                    <span class="designation">Room Service</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-5.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Michael Dean</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="200ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-6.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Frank Burton</a></h4>
-                                    <span class="designation">Kitchen Manager</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="300ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-7.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Mya Mullins</a></h4>
-                                    <span class="designation">Hotel Manager</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Team block -->
-                    <div class="team-block col-lg-3 col-sm-6">
-                        <div class="inner-box wow fadeInLeft" data-wow-delay="400ms">
-                            <div class="image-box">
-                                <div class="inner-box">
-                                    <figure class="image overlay-anim"><a href="page-team-details.html"><img src="./assets/images/resource/team-8.jpg" alt=""></a></figure>
-                                </div>
-                                <div class="info-box">
-                                    <h4 class="name"><a href="page-team-details.html">Ralph Nguyen</a></h4>
-                                    <span class="designation">Room Service</span>
-                                    <div class="social-links">
-                                        <a href="#"><i class="fab fa-facebook"></i></a>
-                                        <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                                        <a href="#"><i class="fab fa-youtube"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Team Section -->
-
-        <!-- Clients Section -->
-        <section class="clients-section-three">
-            <div class="auto-container">
-                <!-- Sponsors Outer -->
-                <div class="sponsors-outer">
-                    <!--clients carousel-->
-                    <ul class="clients-carousel">
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-1.png" alt="Image"> <img src="./assets/images/resource/client1-1.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-2.png" alt="Image"> <img src="./assets/images/resource/client1-2.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-3.png" alt="Image"> <img src="./assets/images/resource/client1-3.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-4.png" alt="Image"> <img src="./assets/images/resource/client1-4.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-5.png" alt="Image"> <img src="./assets/images/resource/client1-5.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-1.png" alt="Image"> <img src="./assets/images/resource/client1-1.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-2.png" alt="Image"> <img src="./assets/images/resource/client1-2.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-3.png" alt="Image"> <img src="./assets/images/resource/client1-3.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-4.png" alt="Image"> <img src="./assets/images/resource/client1-4.png" alt="Image"> </a> </li>
-                        <li class="client-block-three"> <a href="#" class="image"> <img src="./assets/images/resource/client1-5.png" alt="Image"> <img src="./assets/images/resource/client1-5.png" alt="Image"> </a> </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        <!--End Clients Section -->
-
-        <!-- News Section -->
-        <section class="news-section">
-            <div class="auto-container">
-                <div class="sec-title text-center wow fadeInUp">
-                    <span class="sub-title">NEWS & BLOG</span>
-                    <h2>Check Latest Blog Post from <br />Blog List</h2>
-                </div>
-                <div class="row">
-                    <!-- News Block -->
-                    <div class="news-block-four col-lg-4 col-md-6 wow fadeInUp">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="news-details.html">
-                  <img src="./assets/images/resource/news1-4.jpg" alt="Image">
-                  <img src="./assets/images/resource/news1-4.jpg" alt="Image">
-                </a>
-                                </figure>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-meta">
-                                    <li class="categories"><a href="news-details.html">January 12, 2025</a></li>
-                                    <li class="date">Tips & Tricks</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">We Offering Online Registration at Your Hotel</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- News Block -->
-                    <div class="news-block-four col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="news-details.html">
-                  <img src="./assets/images/resource/news1-5.jpg" alt="Image">
-                  <img src="./assets/images/resource/news1-5.jpg" alt="Image">
-                </a>
-                                </figure>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-meta">
-                                    <li class="categories"><a href="news-details.html">January 12, 2025</a></li>
-                                    <li class="date">Spa & Wellness</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">Our Health Club is Now Available for Your Fitness</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- News Block -->
-                    <div class="news-block-four col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image">
-                                    <a href="news-details.html">
-                  <img src="./assets/images/resource/news1-6.jpg" alt="Image">
-                  <img src="./assets/images/resource/news1-6.jpg" alt="Image">
-                </a>
-                                </figure>
-                            </div>
-                            <div class="content-box">
-                                <ul class="post-meta">
-                                    <li class="categories"><a href="news-details.html">January 12, 2025</a></li>
-                                    <li class="date">Popular Places</li>
-                                </ul>
-                                <h4 class="title"><a href="news-details.html">Restoring the Lighting Design in the Hotel</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        
 <?php include "./components/footer.php"; ?>

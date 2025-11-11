@@ -15,8 +15,8 @@
                                     <li><a href="standard">Standard</a></li>
                                     <li><a href="royal">Royal</a></li>
                                     <li><a href="deluxe">Deluxe</a></li>
-                                    <li><a href="executive-one">Executive One</a></li>
-                                    <li><a href="executive-two">Executive Two</a></li>
+                                    <li><a href="executive">Executive</a></li>
+                                    <li><a href="executive-plus">Executive Plus</a></li>
                                     <li><a href="senator">Senator</a></li>
                                 </ul>
                             </li>

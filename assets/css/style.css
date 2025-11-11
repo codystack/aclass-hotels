@@ -9169,8 +9169,8 @@ Section Title
 }
 .banner-section .banner-slider {
   position: relative;
-  min-height: 900px;
-  height: 100vh;
+  min-height: 650px;
+  height: 80vh;
 }
 @media (max-width: 1199.98px) {
   .banner-section .banner-slider {
