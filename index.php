@@ -73,68 +73,61 @@ include "./components/navbar.php";
         </section>
 
         <!-- About Section -->
-        <section class="about-section11 pt-0">
+        <section class="about-section11">
             <div class="auto-container">
                 <div class="row">
                     <!-- Content Column -->
                     <div class="content-column col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay="600ms">
                         <div class="inner-column">
                             <div class="sec-title">
-                                <span class="sub-title">HOTELER Luxury Rooms</span>
-                                <h2>Luxury Room & Suites</h2>
-                                <div class="text">Proin efficitur, mauris vel condimentum pulvinar, velit orci consectetur ligula, eget egestas magna mi ut arcu. Phasellus nec odio orci. Nunc id massa ante. Suspendisse sit amet neque euismod, convallis quam eget,</div>
+                                <span class="sub-title">A-Class Garden & Suites</span>
+                                <h2>Your Comfort, <br />Our Signature</h2>
+                                <div class="text">At A-Class Garden & Suites, every room tells a story of luxury and care. Relax in style, surrounded by comfort designed to make you feel right at home — only better.</div>
                             </div>
                             <div class="row">
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
                                         <i class="icon flaticon-bed-2"></i>
-                                        <h6 class="title">Luxury Room</h6>
+                                        <h6 class="title">Luxury Rooms</h6>
                                     </div>
                                 </div>
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
-                                        <i class="icon flaticon-travel"></i>
-                                        <h6 class="title">Expart Team</h6>
+                                        <i class="icon flaticon-breakfast"></i>
+                                        <h6 class="title">Restaurant</h6>
                                     </div>
                                 </div>
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
-                                        <i class="icon flaticon-wifi"></i>
-                                        <h6 class="title">24/7 days service</h6>
+                                        <i class="icon flaticon-customer-service"></i>
+                                        <h6 class="title">24/7 Support</h6>
                                     </div>
                                 </div>
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
-                                        <i class="icon flaticon-bed-2"></i>
+                                        <i class="icon flaticon-date"></i>
                                         <h6 class="title">Online Booking</h6>
                                     </div>
                                 </div>
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
-                                        <i class="icon flaticon-travel"></i>
-                                        <h6 class="title">Safety & Security</h6>
+                                        <i class="icon flaticon-weights"></i>
+                                        <h6 class="title">Top-Notch Gym</h6>
                                     </div>
                                 </div>
                                 <div class="info-box col-sm-4">
                                     <div class="inner-box">
                                         <i class="icon flaticon-wifi"></i>
-                                        <h6 class="title">Reasonable price</h6>
+                                        <h6 class="title">Free Wifi</h6>
                                     </div>
                                 </div>
                             </div>
-                            <div class="video-box">
-                                <figure class="image-1 mb-0"><img class="img-fit-cover w-100" src="./assets/images/resource/video1-1.jpg" alt=""></figure>
-                                <div class="btn-box">
-                                    <a href="https://www.youtube.com/watch?v=Fvae8nxzVz4" class="play-now-two" data-fancybox="gallery" data-caption="">
-                  <i class="fa-sharp fa-solid fa-play"></i>
-                  <span class="ripple"></span>
-                </a>
-                                </div>
+                            <div class="btn-box">
+                                <a href="services" class="theme-btn btn-style-one"><span class="btn-title">Discover More</span></a>
                             </div>
                         </div>
                     </div>
 
-                    <!-- Image Column -->
                     <div class="image-column col-xl-6 col-lg-6">
                         <div class="inner-column wow fadeInLeft">
                             <figure class="image-2 mb-0 wow tm-gsap-img-parallax overflow-hidden"><img class="img-fit-cover w-100" src="./assets/images/resource/about11-1.jpg" alt=""></figure>

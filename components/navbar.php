@@ -20,6 +20,7 @@
                                     <li><a href="senator">Senator</a></li>
                                 </ul>
                             </li>
+                            <li><a href="services">Services</a></li>
                             <li><a href="faq">FAQ's</a></li>
                             <li><a href="contact">Contact</a></li>
                         </ul>
