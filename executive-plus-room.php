@@ -36,7 +36,7 @@ include "./components/navbar.php";
 
                     <div class="room-details__left">
                         <div class="room-heading">
-                            <h3 class="title mb-4">Senator</h3>
+                            <h3 class="title mb-4">Executive Plus</h3>
                             <div class="text">40-inch LED TV / Mini bar / Non-smoking / USB charging</div>
                             <ul class="kodelisting-room-basic-info g-3">
                                 <li><i class="fa-classic fat fa-users"></i> <span class="csrbi-text">2 Guests</span></li>
@@ -48,7 +48,7 @@ include "./components/navbar.php";
 					<div class="room-details__left">
 						<div class="wrapper">
 							<h4>Description</h4>
-							<p class="text">Step into the Senator Room, where elegance meets indulgence. This spacious suite is designed for guests who appreciate the finer things in life — featuring a grand king-sized bed, exquisite décor, and premium finishes that exude sophistication. Every detail, from the soft lighting to the curated furnishings, invites you to relax in complete comfort. Perfect for distinguished travelers seeking a serene and luxurious retreat after a long day of business or leisure.</p>
+							<p class="text">Experience elevated comfort in our Executive Plus Room, crafted for business and leisure travelers who value both luxury and functionality. The room features a plush king-sized bed, contemporary furnishings, and a soothing ambiance designed to inspire relaxation. With its spacious layout, modern amenities, and tasteful décor, the Executive Plus offers the perfect blend of sophistication and serenity — a true reflection of A-Class hospitality at its finest.</p>
 						</div>
 					</div>
 				</div>
@@ -58,12 +58,12 @@ include "./components/navbar.php";
 						<div class="kodelisting-room-booking mb-30">
                             <div class="kodelisting-room-booking-wrap">
                                 <div class="room-booking-title">
-                                    <h5 class="title">₦40,000/night</h5>
+                                    <h5 class="title">₦30,000/night</h5>
                                 </div>
                                 <form class="reservation-form">
                                     <div class="mb-3 mt-2">
                                         <input name="form_botcheck" class="form-control" type="hidden" value="">
-                                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Senator%20room.%20" target="_blank" class="theme-btn btn-style-one w-100">
+                                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20Plus%20room.%20" target="_blank" class="theme-btn btn-style-one w-100">
                                             <span class="btn-title">Book Now</span>
                                         </a>
                                     </div>
@@ -75,13 +75,6 @@ include "./components/navbar.php";
 							<h3 class="sidebar__title">Compare Room</h3>
 							<ul class="sidebar__post-list list-unstyled">
 								<li>
-									<div class="sidebar__post-image"> <img src="./assets/images/resource/news-info-1.jpg.png" alt=""> </div>
-									<div class="sidebar__post-content">
-										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Executive Plus</span> <a href="">₦30,000/night</a>
-										</h3>
-									</div>
-								</li>
-								<li>
 									<div class="sidebar__post-image"> <img src="./assets/images/resource/news-info-2.jpg" alt=""> </div>
 									<div class="sidebar__post-content">
 										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Executive</span> <a href="">₦25,000/night</a> </h3>
@@ -91,6 +84,13 @@ include "./components/navbar.php";
 									<div class="sidebar__post-image"> <img src="./assets/images/resource/news-info-1.jpg.png" alt=""> </div>
 									<div class="sidebar__post-content">
 										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Royal</span> <a href="">₦20,000/night</a> </h3>
+									</div>
+								</li>
+                                <li>
+									<div class="sidebar__post-image"> <img src="./assets/images/resource/news-info-1.jpg.png" alt=""> </div>
+									<div class="sidebar__post-content">
+										<h3> <span class="sidebar__post-content-meta"><i class="fas fa-door-open"></i>Deluxe</span> <a href="">₦15,000/night</a>
+										</h3>
 									</div>
 								</li>
 							</ul>

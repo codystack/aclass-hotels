@@ -12,12 +12,12 @@
                             <li><a href="about">About</a></li>
                             <li class="dropdown"><a href="#">Rooms</a>
                                 <ul>
-                                    <li><a href="senator-room">Standard</a></li>
-                                    <li><a href="deluxe">Deluxe</a></li>
-                                    <li><a href="royal">Royal</a></li>
-                                    <li><a href="executive">Executive</a></li>
-                                    <li><a href="executive-plus">Executive Plus</a></li>
-                                    <li><a href="senator">Senator</a></li>
+                                    <li><a href="standard-room">Standard</a></li>
+                                    <li><a href="deluxe-room">Deluxe</a></li>
+                                    <li><a href="royal-room">Royal</a></li>
+                                    <li><a href="executive-room">Executive</a></li>
+                                    <li><a href="executive-plus-room">Executive Plus</a></li>
+                                    <li><a href="senator-room">Senator</a></li>
                                 </ul>
                             </li>
                             <li><a href="services">Services</a></li>
