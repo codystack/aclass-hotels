@@ -72,11 +72,10 @@ include "./components/navbar.php";
             </div>
         </section>
 
-        <!-- About Section -->
+        
         <section class="about-section11">
             <div class="auto-container">
                 <div class="row">
-                    <!-- Content Column -->
                     <div class="content-column col-xl-6 col-lg-6 wow fadeInRight" data-wow-delay="600ms">
                         <div class="inner-column">
                             <div class="sec-title">

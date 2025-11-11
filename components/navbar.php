@@ -13,8 +13,8 @@
                             <li class="dropdown"><a href="#">Rooms</a>
                                 <ul>
                                     <li><a href="standard">Standard</a></li>
-                                    <li><a href="royal">Royal</a></li>
                                     <li><a href="deluxe">Deluxe</a></li>
+                                    <li><a href="royal">Royal</a></li>
                                     <li><a href="executive">Executive</a></li>
                                     <li><a href="executive-plus">Executive Plus</a></li>
                                     <li><a href="senator">Senator</a></li>

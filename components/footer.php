@@ -56,7 +56,6 @@
                                         <div class="inner">
                                             <div class="list-info">1 A-Class Avenue, Pope John Paul II Estate, Airport Oba, Anambra State.</div>
                                             <div class="list-info">07076809773</div>
-                                            <div class="list-info"><a href="../../cdn-cgi/l/email-protection.html" class="__cf_email__" data-cfemail="adc4c3cbc2edd4c2d8dfdac8cfdec4d9c883cec2c0">[email&#160;protected]</a></div>
                                         </div>
                                     </div>
                                 </div>
