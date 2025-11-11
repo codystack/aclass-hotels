@@ -72,7 +72,7 @@ include "./components/navbar.php";
             </div>
         </section>
 
-        
+
         <section class="about-section11">
             <div class="auto-container">
                 <div class="row">
@@ -149,86 +149,6 @@ include "./components/navbar.php";
                         </div>
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <section class="testimonial-section-four">
-            <div class="auto-container">
-            <div class="row justify-content-end">
-                <div class="col-lg-8">
-                <div class="sec-title text-center">
-                    <span class="sub-title">Our Customer Feedback</span>
-                    <h2>What Client's Say?</h2>
-                </div>
-                </div>
-            </div>
-            <div class="testimonial-carousel-two slick-gap-30">
-                <div class="testimonial-block-four">
-                <div class="inner-box">
-                    <div class="content-box">
-                    <span class="icon fa fa-quote-right"></span>
-                    <div class="text">Lorem ipsum dolor amet consectetur adipiscing accumsan pellentesque litora vitae parturient malesuada himenaeos tempor.</div>
-                    </div>
-                    <div class="info-box">
-                    <figure class="thumb"><img src="./assets/images/resource/testi2-thumb1.png" alt=""></figure>
-                    <div>
-                        <h6 class="name">Jenny Wilson</h6>
-                        <span class="designation">Business Owner</span>
-                    </div>
-                    </div>
-                </div>
-                </div>
-                <div class="testimonial-block-four">
-                <div class="inner-box">
-                    <div class="content-box">
-                    <span class="icon fa fa-quote-right"></span>
-                    <div class="text">Lorem ipsum dolor amet consectetur adipiscing accumsan pellentesque litora vitae parturient malesuada himenaeos tempor.</div>
-                    </div>
-                    <div class="info-box">
-                    <figure class="thumb"><img src="./assets/images/resource/testi2-thumb2.png" alt=""></figure>
-                    <div>
-                        <h6 class="name">Ralph Edwards</h6>
-                        <span class="designation">Nursing Assistant</span>
-                    </div>
-                    </div>
-                </div>
-                </div>
-                <div class="testimonial-block-four">
-                <div class="inner-box">
-                    <div class="content-box">
-                    <span class="icon fa fa-quote-right"></span>
-                    <div class="text">Lorem ipsum dolor amet consectetur adipiscing accumsan pellentesque litora vitae parturient malesuada himenaeos tempor.</div>
-                    </div>
-                    <div class="info-box">
-                    <figure class="thumb"><img src="./assets/images/resource/testi2-thumb1.png" alt=""></figure>
-                    <div>
-                        <h6 class="name">Ralph Edwards</h6>
-                        <span class="designation">Nursing Assistant</span>
-                    </div>
-                    </div>
-                </div>
-                </div>
-                <div class="testimonial-block-four">
-                <div class="inner-box">
-                    <div class="content-box">
-                    <span class="icon fa fa-quote-right"></span>
-                    <div class="text">Lorem ipsum dolor amet consectetur adipiscing accumsan pellentesque litora vitae parturient malesuada himenaeos tempor.</div>
-                    </div>
-                    <div class="info-box">
-                    <figure class="thumb"><img src="./assets/images/resource/testi2-thumb2.png" alt=""></figure>
-                    <div>
-                        <h6 class="name">Ralph Edwards</h6>
-                        <span class="designation">Nursing Assistant</span>
-                    </div>
-                    </div>
-                </div>
-                </div>
-            </div>
-            </div>
-            <div class="image-box d-none d-lg-block">
-            <figure class="image wow reveal-top tm-gsap-img-parallax overflow-hidden">
-                <img src="./assets/images/resource/testimonials-side-bg.jpg" alt="">
-            </figure>
             </div>
         </section>
 
