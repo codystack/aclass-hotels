@@ -7,10 +7,6 @@ include "./components/navbar.php";
 		<div class="auto-container">
 			<div class="title-outer text-center">
 				<h1 class="title">About Us</h1>
-				<ul class="page-breadcrumb">
-					<li><a href="index.html">Home</a></li>
-					<li>About Us</li>
-				</ul>
 			</div>
 		</div>
 	</section>
