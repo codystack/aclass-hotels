@@ -94,6 +94,12 @@
     <script src="./assets/js/splitType.js"></script>
     <script src="./assets/js/script.js"></script>
     <script src="./assets/js/script-gsap.js"></script>
+    <script src="./assets/js/bxslider.js"></script>
+
+    <script src="./assets/js/jquery.validate.min.js"></script>
+    <script src="./assets/js/jquery.form.min.js"></script>
+    <script src="./assetsjs/custom-form-script.js"></script>
+
     <script>
         // Background image area start here ***
         $("[data-background").each(function() {

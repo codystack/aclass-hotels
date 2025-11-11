@@ -28,7 +28,7 @@ include "./components/navbar.php";
                             <span class="price">₦40,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Senator%20room.%20" class="book-btn">book now</a>
+                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Senator%20room.%20" target="_blank" class="book-btn">book now</a>
                             <ul class="bx-links">
                                 <li><a href="senator-room"><i class="fa fa-wifi"></i></a></li>
                                 <li><a href="senator-room"><i class="fa fa-bed"></i></a></li>
@@ -49,7 +49,7 @@ include "./components/navbar.php";
                         <span class="price">₦30,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20Plus%20room.%20" class="book-btn">book now</a>
+                        <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20Plus%20room.%20" target="_blank" class="book-btn">book now</a>
                         <ul class="bx-links">
                             <li><a href="executive-plus-room"><i class="fa fa-wifi"></i></a></li>
                             <li><a href="executive-plus-room"><i class="fa fa-bed"></i></a></li>
@@ -70,7 +70,7 @@ include "./components/navbar.php";
                             <span class="price">₦25,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20room.%20" class="book-btn">book now</a>
+                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Executive%20room.%20" target="_blank" class="book-btn">book now</a>
                             <ul class="bx-links">
                                 <li><a href="executive-room"><i class="fa fa-wifi"></i></a></li>
                                 <li><a href="executive-room"><i class="fa fa-bed"></i></a></li>
@@ -91,7 +91,7 @@ include "./components/navbar.php";
                             <span class="price">₦20,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Royal%20room.%20" class="book-btn">book now</a>
+                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Royal%20room.%20" target="_blank" class="book-btn">book now</a>
                             <ul class="bx-links">
                                 <li><a href="royal-room"><i class="fa fa-wifi"></i></a></li>
                                 <li><a href="royal-room"><i class="fa fa-bed"></i></a></li>
@@ -112,7 +112,7 @@ include "./components/navbar.php";
                             <span class="price">₦15,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Deluxe%20room.%20" class="book-btn">book now</a>
+                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Deluxe%20room.%20" target="_blank" class="book-btn">book now</a>
                             <ul class="bx-links">
                                 <li><a href="deluxe-room"><i class="fa fa-wifi"></i></a></li>
                                 <li><a href="deluxe-room"><i class="fa fa-bed"></i></a></li>
@@ -133,7 +133,7 @@ include "./components/navbar.php";
                             <span class="price">₦10,000 / NIGHT</span>
                         </div>
                         <div class="box-caption">
-                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Standard%20room.%20" class="book-btn">book now</a>
+                            <a href="https://wa.me/+2347076809773?text=Hello,%20I%20would%20like%20to%20book%20the%20Standard%20room.%20" target="_blank" class="book-btn">book now</a>
                             <ul class="bx-links">
                                 <li><a href="standard-room"><i class="fa fa-wifi"></i></a></li>
                                 <li><a href="standard-room"><i class="fa fa-bed"></i></a></li>
